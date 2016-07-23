@@ -1,0 +1,23 @@
+.alto {
+  height: 100vh;
+}
+
+#login {
+  position: fixed;
+  z-index: 10;
+  width: 100%;
+}
+
+.padding {
+  padding: 10px 15px;
+}
+
+.chat {
+  width: 300px;
+  display: inline-block;
+  margin: 20px;
+}
+
+.chat .messages {
+  height: 300px;
+}
